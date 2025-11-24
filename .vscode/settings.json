@@ -1,3 +1,5 @@
 {
-    "terminal.integrated.allowChords": true
+    "terminal.integrated.allowChords": true,
+    "java.compile.nullAnalysis.mode": "automatic",
+    "java.configuration.updateBuildConfiguration": "automatic"
 }
